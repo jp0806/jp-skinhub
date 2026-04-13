@@ -1,11 +1,11 @@
-# jp skinhub (currently WIP)
+# jp skinhub 
 where i put (most of) my skins that i used in the past :D **(a lot of the skins i used in the past are lost)**  
 each skin has a date next to it (approximately when i used the skin)  
 ⭐ = skin has 500+ downloads
 
 # IF ANYTHING IS BROKEN PLEASE LET ME KNOW (send a msg request to me on discord @jp0806 if this is the case)
 
-# CURRENT SKINS
+# CURRENT SKINS:
 
 # [jp ieth](https://jp0806.s-ul.eu/KHSxSsof) | early 2026-?
 current main skin. i use this for everything except dt and ar11.
@@ -19,7 +19,7 @@ primary dt skin used for all things dt (except ar11). used with 2.0 gamma and 40
 ar11 skin. used with the same settings as rafis 8k.
 [![](https://osu.ppy.sh/ss/19927513/63d6)](https://jp0806.s-ul.eu/rJrxFr4O)
 
-# LEGACY SKINS
+# LEGACY SKINS:
 
 # [jp zadymiarz htei](https://jp0806.s-ul.eu/tziw9dHw) | early 2025-?
 serves as the base for all my skins (basically used for experimentation/mixing skin elements together). all the skins i make use this as a template.
