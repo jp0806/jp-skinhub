@@ -3,7 +3,9 @@ where i put (most of) my skins that i used in the past :D **(a lot of the skins 
 each skin has a date next to it (approximately when i used the skin)  
 ⭐ = skin has 500+ downloads
 
-# IF ANYTHING IS BROKEN PLEASE LET ME KNOW (send a msg request to me on discord @jp0806 if this is the case)
+# NOTE: sometimes i may be using a skin on here with slight edits on stream, so the skin you are looking for could look a little different to what is on here
+
+# IF ANYTHING IS BROKEN PLEASE LET ME KNOW (send a msg request to me on discord @jp0806 if this is the case or dm @qt_osu on twitter)
 
 # CURRENT SKINS:
 
