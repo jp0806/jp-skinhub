@@ -5,6 +5,13 @@ each skin has a date next to it (approximately when i used the skin)
 
 # IF ANYTHING IS BROKEN PLEASE LET ME KNOW (send a msg request to me on discord @jp0806 if this is the case)
 
+# [jp zadymiarz htei](https://jp0806.s-ul.eu/tziw9dHw) | early 2025-current
+serves as the base for all my skins (basically used for experimentation/mixing skin elements together). all the skins i make use this as a template.
+[![](https://osu.ppy.sh/ss/19927498/20fe)](https://jp0806.s-ul.eu/tziw9dHw)
+
+# [jp lemon (bubbleman)](https://jp0806.s-ul.eu/9zQwB0ge) ⭐ (MOST POPULAR)!!!!! | late 2024
+[![](https://osu.ppy.sh/ss/19927494/b96c)](https://jp0806.s-ul.eu/9zQwB0ge)
+
 # [jp furina wip2](https://jp0806.s-ul.eu/wg4GB3Sr) | early 2024-mid 2024
 [![](https://osu.ppy.sh/ss/19927491/420b)](https://jp0806.s-ul.eu/wg4GB3Sr)
 
