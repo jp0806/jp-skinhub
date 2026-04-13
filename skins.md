@@ -5,7 +5,23 @@ each skin has a date next to it (approximately when i used the skin)
 
 # IF ANYTHING IS BROKEN PLEASE LET ME KNOW (send a msg request to me on discord @jp0806 if this is the case)
 
-# [jp zadymiarz htei](https://jp0806.s-ul.eu/tziw9dHw) | early 2025-current
+# CURRENT SKINS
+
+# [jp ieth](https://jp0806.s-ul.eu/KHSxSsof) | early 2026-?
+current main skin. i use this for everything except dt and ar11.
+[![](https://osu.ppy.sh/ss/19927508/4cfc)](https://jp0806.s-ul.eu/KHSxSsof)
+
+# [rafis 8k](https://jp0806.s-ul.eu/IhcHxX3e) | early 2026-?
+primary dt skin used for all things dt (except ar11). used with 2.0 gamma and 40% contrast in nvidia control panel.
+[![](https://osu.ppy.sh/ss/19927510/fcb4)](https://jp0806.s-ul.eu/IhcHxX3e)
+
+# [jp pewdekz edit](https://jp0806.s-ul.eu/rJrxFr4O) | mid 2023-?
+ar11 skin. used with the same settings as rafis 8k.
+[![](https://osu.ppy.sh/ss/19927513/63d6)](https://jp0806.s-ul.eu/rJrxFr4O)
+
+# LEGACY SKINS
+
+# [jp zadymiarz htei](https://jp0806.s-ul.eu/tziw9dHw) | early 2025-?
 serves as the base for all my skins (basically used for experimentation/mixing skin elements together). all the skins i make use this as a template.
 [![](https://osu.ppy.sh/ss/19927498/20fe)](https://jp0806.s-ul.eu/tziw9dHw)
 
