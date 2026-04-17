@@ -12,10 +12,15 @@ each skin has a date next to it (approximately when i used the skin)
 # [jp ieth](https://jp0806.s-ul.eu/KHSxSsof) | early 2026-?
 current main skin. i use this for everything except dt and ar11.
 [![](https://osu.ppy.sh/ss/19927508/4cfc)](https://jp0806.s-ul.eu/KHSxSsof)
+## EDITS:  
+### 4/14/26: [jp ieth 2bie](https://jp0806.s-ul.eu/fYL7BnwU) - this edit has a pink cursor with white/pink/purple combo colors from one of [bie's](https://osu.ppy.sh/users/8403254) personal skins. i use this one now!!
+[![](https://osu.ppy.sh/ss/19930771/7970)](https://jp0806.s-ul.eu/fYL7BnwU)
 
 # [rafis 8k](https://jp0806.s-ul.eu/IhcHxX3e) | early 2026-?
 primary dt skin used for all things dt (except ar11). used with 2.0 gamma and 40% contrast in nvidia control panel.
 [![](https://osu.ppy.sh/ss/19927510/fcb4)](https://jp0806.s-ul.eu/IhcHxX3e)
+## EDITS:  
+### 4/14/26: changed cursor to be same one used in [jp ieth 2bie](https://jp0806.s-ul.eu/fYL7BnwU)
 
 # [jp pewdekz edit](https://jp0806.s-ul.eu/rJrxFr4O) | mid 2023-?
 ar11 skin. used with the same settings as rafis 8k.
@@ -68,4 +73,5 @@ serves as the base for all my skins (basically used for experimentation/mixing s
 
 # [ryan mystia (no followpoint kamui cursor)](https://jp0806.s-ul.eu/7Vfk9tcc) | early 2021-mid 2021
 [![](https://osu.ppy.sh/ss/19927443/6348)](https://jp0806.s-ul.eu/7Vfk9tcc)
-[normal pink cursor variant (same as tree rack)](https://jp0806.s-ul.eu/NVnkOtIB)
+## EDITS:
+### [normal pink cursor variant (same as tree rack)](https://jp0806.s-ul.eu/NVnkOtIB)
